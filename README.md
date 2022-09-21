@@ -1,6 +1,6 @@
 # Hey 👋🏻 call me Rodz.
 
-I'm a SWE based in 🇳🇱 Amsterdam, Netherlands.
+Software Engineer [@Reaktor](https://reaktor.com). I'm based in 🇳🇱 Amsterdam, Netherlands.
 
 - 🎥 I taught tens of thousands of developers on [YouTube](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp) during 2020.
 
