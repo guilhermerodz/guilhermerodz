@@ -1,4 +1,4 @@
-# Hey 👋🏻 call me Rodz.
+# Rodz
 
 Software Engineer [@Reaktor](https://reaktor.com). I'm based in 🇳🇱 Amsterdam, Netherlands.
 
