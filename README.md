@@ -1,11 +1,12 @@
 # Rodz
 
-Software Engineer [@Reaktor](https://reaktor.com).
-Based in Amsterdam, Netherlands. 🇳🇱
+Software Engineer.
+
+Formerly at [@Reaktor](https://reaktor.com), [@X-Team](https://x-team.com), [@Rocketseat](https://rocketseat.com.br).
 
 DX, UI, and Performance are my favorite topics.
 
 Twitter: [@guilherme_rodz](https://twitter.com/guilherme_rodz)  
 LinkedIn: [@guilhermerodz](https://linkedin.com/in/guilhermerodz)
 
-Reach out at [gui.rodz.dev@gmail.com](mailto:gui.rodz.dev@gmail.com) 
+Reach out at [g@rodz.design](mailto:g@rodz.design) 
