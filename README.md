@@ -9,4 +9,4 @@ DX, UI, and Performance are my favorite topics.
 Twitter: [@guilherme_rodz](https://twitter.com/guilherme_rodz)  
 LinkedIn: [@guilhermerodz](https://linkedin.com/in/guilhermerodz)
 
-Reach out at [g@rodz.design](mailto:g@rodz.design) 
+Reach out at [g@rodz.dev](mailto:g@rodz.dev) 
